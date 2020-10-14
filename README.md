@@ -3,7 +3,7 @@ Arabic Dataset For NLP
 
 ## Data for the articel (MAke your own CBOW)
 
-<p direction = 'rtl'>
+<p dir = 'rtl'>
     ال data  المستخدمة في هذا المقال 
     <a href='https://amienkhaled.me/blog/Make-Your-Own-CBOW/'>ما هي ال Word Embeddings ? وماهي طريقة ال CBOW ? وكيفية تطبيقها على اللغة العربية ؟</a>
 </p>
