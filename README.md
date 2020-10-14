@@ -8,5 +8,4 @@ Arabic Dataset For NLP
     <a href='https://amienkhaled.me/blog/Make-Your-Own-CBOW/'>ما هي ال Word Embeddings ? وماهي طريقة ال CBOW ? وكيفية تطبيقها على اللغة العربية ؟</a>
 </p>
 
-
-<a href='https://github.com/AmienKhaled/NLP-Arabic-Datasets/tree/main/Make_your_own_CBOW'>Dataset</a>
+- <a href='https://github.com/AmienKhaled/NLP-Arabic-Datasets/tree/main/Make_your_own_CBOW'>Dataset</a>
